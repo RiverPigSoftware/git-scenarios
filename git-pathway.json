@@ -1,5 +1,7 @@
 {
   "title": "Git",
   "description": "Getting started with Git",
-  "courses": []
+  "courses": [
+    "demo-scenario"
+  ]
 }
