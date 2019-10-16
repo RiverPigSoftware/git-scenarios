@@ -1,0 +1,14 @@
+{
+  "name": "git-scenarios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:RiverPigSoftware/git-scenarios.git",
+  "author": "Scott Rossillo <srossillo@smartling.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "katacoda-cli": "^0.0.17"
+  },
+  "scripts": {
+    "kc": "katacoda"
+  }
+}
